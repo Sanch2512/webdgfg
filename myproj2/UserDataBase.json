@@ -1,0 +1,84 @@
+[
+  {
+    "id": 2,
+    "name": "Nehal",
+    "email": "nehal@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Ross Geller",
+    "email": "ross.geller@gmail.com",
+    "age": 36,
+    "address": "Flat 12, New York City"
+  },
+  {
+    "id": 7,
+    "name": "Chandler Bing",
+    "email": "chandler.bing@gmail.com",
+    "age": 35,
+    "address": "Apt 19, Manhattan"
+  },
+  {
+    "id": 8,
+    "name": "Joey Tribbiani",
+    "email": "joey.tribbiani@gmail.com",
+    "age": 34,
+    "address": "Manhattan, New York"
+  },
+  {
+    "id": 9,
+    "name": "Phoebe Buffay",
+    "email": "phoebe.buffay@gmail.com",
+    "age": 32,
+    "address": "92 Grove Street, NYC"
+  },
+  {
+    "id": 10,
+    "name": "Gunther",
+    "email": "gunther.centralperk@gmail.com",
+    "age": 38,
+    "address": "Back Alley, Central Perk"
+  },
+  {
+    "id": 11,
+    "name": "Mike Hannigan",
+    "email": "mike.h@gmail.com",
+    "age": 35,
+    "address": "New Jersey"
+  },
+  {
+    "id": 12,
+    "name": "Janice Litman",
+    "email": "janice@yahoo.com",
+    "age": 33,
+    "address": "Queens, New York"
+  },
+  {
+    "id": 13,
+    "name": "Richard Burke",
+    "email": "richard.burke@gmail.com",
+    "age": 45,
+    "address": "Park Avenue, NYC"
+  },
+  {
+    "id": 14,
+    "name": "Emily Waltham",
+    "email": "emily.waltham@london.uk",
+    "age": 31,
+    "address": "Chelsea, London"
+  },
+  {
+    "id": 15,
+    "name": "David the Scientist",
+    "email": "david.science@gmail.com",
+    "age": 37,
+    "address": "Minsk, Belarus"
+  },
+  {
+    "id": 1743906908330,
+    "name": "Ross Geller",
+    "email": "ross.geller@gmail.com",
+    "age": 36,
+    "address": "Flat 12, New York City"
+  }
+]
